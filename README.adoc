@@ -204,7 +204,7 @@ class CardGame32Test extends TestCase
 ```
 **Le test ``phpunit`` :**
 
-````
+```
 C:\xampp\htdocs\guesswhat>php .\bin\phpunit tests\Core\CardGame32Test.php
 PHPUnit 7.5.20 by Sebastian Bergmann and contributors.
 
@@ -216,7 +216,7 @@ Time: 607 ms, Memory: 6.00 MB
 OK (5 tests, 5 assertions)
 
 
-````
+```
 ## Challenge 4 conception de tests unitaires pour `Guess`
 Pas terminé, je n'ai pas pu le commencer. Je suis encore trop lent et j'ai encore quelque lacune.
 
@@ -230,9 +230,7 @@ Ressources utiles:
 * L'usage de la syntaxe de documentation PHPDoc
 https://docs.phpdoc.org/3.0/guide/getting-started/what-is-a-docblock.html[DocBloc]
 * Lien du projet https://gitlab.com/okpu/guesswhat.git[Guesswhat]
-* Lien de mon projet ``Guesswhat``
+* Lien de mon projet https://github.com/billy-dev77/guesswhat#readme[Guesswhat]
 
 Bonne correction !
-g u e s s w h t a
 
- guesswhat.githttps://gitlab.com/okpu/guesswhat.git
